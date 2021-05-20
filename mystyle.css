@@ -27,10 +27,10 @@ div.ex1 {
 }
 
 img {
-  width: 360px;
+  width: 400px;
   float: left;
   object-fit: cover;
-  padding: 15px;
+  padding: 10px;
 }
 
 ul {
